@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar-brand {
+    padding: 0px 0px 0px 10px;
+    background-color: rgb(248, 248, 248);
+}
+
+.navbar-header{
+    background-color: rgb(248, 248, 248);
+}
+
+.navbar-brand img {
+    padding: 5px;
+    float: left;
+}
+
+.navbar-brand div {
+    padding: 15px;
+    float: left;
+}
+
+.navbar-collapse {
+    background-color: rgb(248, 248, 248);
+}
+
+.navbar-collapse li {
+    background-color: lightgreen;
+}
+
+#main-content{
+    padding: 10px;
+    width: auto;
+    margin: 20px 20px 20px 20px;
+}
+
+#main-content > div {
+    padding: 0px 10px;
+    background-color: white;
+}
+#main-content section {
+    padding: 10px;
+    background-color: grey;
+}
+
+#main-content #chicken-section{
+    background-color: lightcoral;
+    height: 700;
+}
+
+#main-content #beef-section{
+    background-color: lightsteelblue;
+    height: 700;
+}
+
+section div {
+    padding: 10px;
+}
+
+#main-content #sushi-section{
+    background-color: lightgoldenrodyellow;
+    height: 700;
+}
+
+#main-content li{
+    list-style-type: none;
+}
